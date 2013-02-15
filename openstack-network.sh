@@ -4,7 +4,6 @@
 # OpenStack for Quantum in Network Node
 # Date : 2013.01.28 
 # Creater : NaleeJang
-# Company : MNL Solution R&D Center
 ##########################################
 #
 # 1. Common Services
